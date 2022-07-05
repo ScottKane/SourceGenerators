@@ -1,0 +1,10 @@
+D:\Repos\SourceGenerators\Generators\bin\Debug\netstandard2.0\Generators.deps.json
+D:\Repos\SourceGenerators\Generators\bin\Debug\netstandard2.0\Generators.dll
+D:\Repos\SourceGenerators\Generators\bin\Debug\netstandard2.0\Generators.pdb
+D:\Repos\SourceGenerators\Generators\obj\Debug\netstandard2.0\Generators.csproj.AssemblyReference.cache
+D:\Repos\SourceGenerators\Generators\obj\Debug\netstandard2.0\Generators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\SourceGenerators\Generators\obj\Debug\netstandard2.0\Generators.AssemblyInfoInputs.cache
+D:\Repos\SourceGenerators\Generators\obj\Debug\netstandard2.0\Generators.AssemblyInfo.cs
+D:\Repos\SourceGenerators\Generators\obj\Debug\netstandard2.0\Generators.csproj.CoreCompileInputs.cache
+D:\Repos\SourceGenerators\Generators\obj\Debug\netstandard2.0\Generators.dll
+D:\Repos\SourceGenerators\Generators\obj\Debug\netstandard2.0\Generators.pdb
